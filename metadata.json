@@ -1,0 +1,5 @@
+{
+  "name": "YouTube to MP3 Converter",
+  "description": "Convert individual YouTube links or batch process queues into high quality MP3 audio files with sequential progress and instant downloads.",
+  "requestFramePermissions": []
+}
